@@ -11,7 +11,7 @@ Nos últimos três anos comecei a minha jornada para a migração total para a �
 
 Atualmente divido o meu tempo entre i) as responsabilidades atreladas a startup Cytrix Analytics: criação e manutenção dos métodos matemáticos e estatísticos empregados nos algoritmos e modelos utilizados pela equipe. Também sou encarregado de compreender o negócio e o mercado ao qual os dados estão inseridos, para além de entendê-los matematicamente, contextualizá-los e interpretá-los, de modo que uma história possa ser contada com os dados e os números, Data Storytelling; e ii) aperfeiçoamento profissional através do MBA em Ciências de Dados fornecido pela USP - Campus de São Carlos.
 
-**Background in:** Python, Machine Learning, Matemática Computacional..
+**Background:** Python, Machine Learning, Matemática Computacional..
 
 **Links:**
 
