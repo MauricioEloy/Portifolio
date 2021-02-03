@@ -20,6 +20,9 @@ Atualmente divido o meu tempo entre i) as responsabilidades atreladas a startup 
 ## Projetos:
 Veja os tutoriais publicados do Sigmoidal:
 
-* **Teste de projeto:** colocar a hrl
+* **Análise de Redes Sociais:** colocar a hrl
+* **Análise de Mídias Sociaias e muito mais!:
+* **Redes Neurais Artificiais:**
+* 
 
 ---
