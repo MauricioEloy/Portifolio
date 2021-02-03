@@ -21,7 +21,7 @@ Atualmente divido o meu tempo entre i) as responsabilidades atreladas a startup 
 
 Veja alguns dos projetos desenvolvidos:
 
-* **Análise de Redes Sociais:** colocar a hrl
+* **Análise de Redes Sociais:** https://bit.ly/36H6xZB
 * **Análise de Mídias Sociais e muito mais!:** https://bit.ly/3cHsYld
 * **Redes Neurais Artificiais:**
 
