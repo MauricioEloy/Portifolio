@@ -18,7 +18,8 @@ Atualmente divido o meu tempo entre i) as responsabilidades atreladas a startup 
 * [LinkedIn](https://www.linkedin.com/in/mauricio-eloy)
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+
+Veja alguns dos projetos desenvolvidos:
 
 * **Análise de Redes Sociais:** colocar a hrl
 * **Análise de Mídias Sociais e muito mais!:** https://bit.ly/3cHsYld
