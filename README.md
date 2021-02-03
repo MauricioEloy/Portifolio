@@ -21,7 +21,7 @@ Atualmente divido o meu tempo entre i) as responsabilidades atreladas a startup 
 Veja os tutoriais publicados do Sigmoidal:
 
 * **Análise de Redes Sociais:** colocar a hrl
-* **Análise de Mídias Sociaias e muito mais!:**
+* **Análise de Mídias Sociais e muito mais!:** https://bit.ly/3cHsYld
 * **Redes Neurais Artificiais:**
 
 
