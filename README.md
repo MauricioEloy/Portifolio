@@ -20,6 +20,6 @@ Atualmente divido o meu tempo entre i) as responsabilidades atreladas a startup 
 ## Projetos:
 Veja os tutoriais publicados do Sigmoidal:
 
-* **Teste de projeto:** https://bit.ly/3cEvJE2
+* **Teste de projeto:** colocar a hrl
 
 ---
