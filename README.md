@@ -7,7 +7,7 @@
 # Mauricio Eloy
 <sub>*CEO | Co-Founder | Data Scientist | Mathematician | Research* at Cytrix Analytics</sub>
 
-Sou mestre em Matemática pela UNESP - Campus de Rio Claro e atuei por mais de dez anos na área de ensino, com ênfase nas disciplinas Calculo Diferencial e Integral, Matemática Financeira, Lógica Matemática, Estatística e Probabilidade.
+Sou mestre em Matemática pela UNESP - Campus de Rio Claro e atuei por mais de dez anos na área de ensino, atuei como Professor do Ensino SUperior na Academia da Força Aérea, com ênfase nas disciplinas Calculo Diferencial e Integral, Matemática Financeira, Lógica Matemática, Estatística e Probabilidade.
 
 Nos últimos três anos comecei a minha jornada para a migração total para a área de Ciência de Dados. Participei de vários eventos voltados à Ciência de Dados e programação Python.
 
