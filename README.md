@@ -7,13 +7,23 @@
 # Mauricio Eloy
 <sub>*CEO | Co-Founder | Data Scientist | Mathematician | Research* at Cytrix Analytics</sub>
 
-Sou mestre em Matemática pela UNESP - Campus de Rio Claro e atuei por mais de dez anos na área de ensino, atuei como Professor do Ensino Superior na Academia da Força Aérea, com ênfase nas disciplinas Calculo Diferencial e Integral, Matemática Financeira, Lógica Matemática, Estatística e Probabilidade.
+Sou especialista em ajudar empresários e organizações a encontrarem padrões para solucionar problemas, usando a Matemática Aplicada à Ciência de Dados.
 
-Nos últimos três anos comecei a minha jornada para a migração total para a área de Ciência de Dados. Participei de vários eventos voltados à Ciência de Dados e programação Python.
+Me formei como Mestre em Matemática pela Universidade Estadual Paulista (Unesp), agora estou me especializando em Ciência de Dados pela Universidade de São Paulo (USP).
 
-Atualmente divido o meu tempo entre i) as responsabilidades atreladas a startup Cytrix Analytics: criação e manutenção dos métodos matemáticos e estatísticos empregados nos algoritmos e modelos utilizados pela equipe. Também sou encarregado de compreender o negócio e o mercado ao qual os dados estão inseridos, para além de entendê-los matematicamente, contextualizá-los e interpretá-los, de modo que uma história possa ser contada com os dados e os números, Data Storytelling; e ii) aperfeiçoamento profissional através do MBA em Ciências de Dados fornecido pela USP - Campus de São Carlos.
+Também fui professor de Matemática na Academia da Força Aérea, com ênfase nas disciplinas Cálculo Diferencial e Integral, Matemática Financeira, Lógica Matemática, Estatística e Probabilidade.
 
-**Background:** Python, Machine Learning, Matemática Computacional..
+Atuei por mais de 10 anos na área da educação e há 3 anos atuo na área de Ciência de Dados. Já participei de vários eventos voltados à Ciência de Dados e a programação Python.
+
+Acredito que para o desenvolvimento de um algoritmo eficiente, é essencial saber os princípios da programação. Muitos não sabem programar. Apenas copiam códigos da internet. Isso é inadmissível.
+
+No Brasil, publiquei artigos acadêmicos que já foram expostos em congressos de matemática. Fui convidado para realizar meu doutorado na Unesp, mas optei pelo empreendedorismo.
+
+Sou co-fundador da startup Cytrix Analytics, onde sou responsável pela criação e manutenção dos métodos matemáticos e estatísticos empregados nos algoritmos 
+
+Também sou encarregado de compreender o negócio e o mercado ao qual os dados estão inseridos, para além de entendê-los matematicamente, contextualizá-los e interpretá-los, de modo que uma história possa ser contada com os dados e os números, Data Storytelling.
+ 
+**Background:** Matemática Computacional, Python, Machine Learning, Estatística.
 
 **Links:**
 
