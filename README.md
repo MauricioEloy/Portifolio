@@ -23,7 +23,7 @@ Sou co-fundador da startup Cytrix Analytics, onde sou responsável pela criaçã
 
 Também sou encarregado de compreender o negócio e o mercado ao qual os dados estão inseridos, para além de entendê-los matematicamente, contextualizá-los e interpretá-los, de modo que uma história possa ser contada com os dados e os números, Data Storytelling.
  
-**Background:** Matemática Computacional, Python, Machine Learning, Estatística.
+**Background:** Matemática Computacional, Python, Inteligência Artifical, Machine Learning e Estatística.
 
 **Links:**
 
