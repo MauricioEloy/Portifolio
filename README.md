@@ -33,14 +33,14 @@ Também sou encarregado de compreender o negócio e o mercado ao qual os dados e
 
 Veja alguns dos projetos desenvolvidos:
 
-* **Análise de Risco:**
+<!--* **Análise de Risco:**-->
 * **Análise de Redes Sociais:** https://bit.ly/36H6xZB
 * **Análise de Mídias Sociais e muito mais!:** https://bit.ly/3cHsYld
 * **Curso de Estatística e Probabilidade:** https://bit.ly/3rg4Km6
-* **Detecção de Pneumonia:**
+<!--* **Detecção de Pneumonia:**
 * **Detecção de Doenças Cardíacas:**
 * **Evasão Escolar:**
 * **Forecast:**
-* **Sistema de Recomendação:**
+* **Sistema de Recomendação:**-->
 * **Redes Neurais Artificiais:** https://bit.ly/3tHrzBi
 ---
