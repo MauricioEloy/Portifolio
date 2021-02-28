@@ -37,6 +37,7 @@ Veja alguns dos projetos desenvolvidos:
 * **Análise de Redes Sociais:** https://bit.ly/36H6xZB
 * **Análise de Mídias Sociais e muito mais!:** https://bit.ly/3cHsYld
 * **Curso de Estatística e Probabilidade:** https://bit.ly/3rg4Km6
+* **Desafio SMARKIO:** https://bit.ly/2O8aYq5 
 * **RNAs: Seminário Final da Disciplina de Análise:** https://bit.ly/3tHrzBi
 <!--* **Detecção de Pneumonia:**
 * **Detecção de Doenças Cardíacas:**
