@@ -38,7 +38,7 @@ Veja alguns dos projetos desenvolvidos:
 * **Análise de Mídias Sociais e muito mais!:** https://bit.ly/3cHsYld
 * **Curso de Estatística e Probabilidade:** https://bit.ly/3rg4Km6 
 * **Data Science na Prática:** https://bit.ly/3wLWcad
-* **Data Science Airbnb Rio de Janeiro:** https://bit.ly/3dcJ1rf
+* **Data Science Airbnb Rio de Janeiro:** https://bit.ly/3n7HSoc
 * **RNAs: Seminário Final da Disciplina de Análise:** https://bit.ly/3tHrzBi
 <!--* **Detecção de Pneumonia:**
 * **Detecção de Doenças Cardíacas:**
