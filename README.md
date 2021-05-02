@@ -13,7 +13,7 @@ Me formei como Mestre em Matemática pela Universidade Estadual Paulista (Unesp)
 
 Também fui professor de Matemática na Academia da Força Aérea, com ênfase nas disciplinas Cálculo Diferencial e Integral, Matemática Financeira, Lógica Matemática, Estatística e Probabilidade.
 
-Atuei por mais de 10 anos na área da educação e há 3 anos atuo na área de Ciência de Dados. Já participei de vários eventos voltados à Ciência de Dados e a programação Python.
+Atuei por mais de 10 anos na área da educação e há 4 anos atuo na área de Ciência de Dados. Já participei de vários eventos voltados à Ciência de Dados e a programação Python.
 
 Acredito que para o desenvolvimento de um algoritmo eficiente, é essencial saber os princípios da programação. Muitos não sabem programar. Apenas copiam códigos da internet. Isso é inadmissível.
 
