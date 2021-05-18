@@ -34,6 +34,7 @@ Também sou encarregado de compreender o negócio e o mercado ao qual os dados e
 Veja alguns dos projetos desenvolvidos:
 
 <!--* **Análise de Risco:**-->
+* **Abandono Escolar: (em construção)** https://bit.ly/3tSvryc
 * **Análise de Redes Sociais:** https://bit.ly/36H6xZB
 * **Análise de Mídias Sociais e muito mais!:** https://bit.ly/3cHsYld
 * **Curso de Estatística e Probabilidade:** https://bit.ly/3rg4Km6 
