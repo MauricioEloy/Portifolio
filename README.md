@@ -28,6 +28,7 @@ Também sou encarregado de compreender o negócio e o mercado ao qual os dados e
 **Links:**
 
 * [LinkedIn](https://www.linkedin.com/in/mauricio-eloy)
+* [Site](https://www.mauricioeloy.com.br)
 
 ## Projetos:
 
