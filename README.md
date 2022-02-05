@@ -5,30 +5,31 @@
 </p>
 
 # Mauricio Eloy
-<sub>*CEO | Co-Founder | Data Scientist | Mathematician | Research* at Cytrix Analytics</sub>
+<sub>*Cientista de Dados | Matemático | Investidor | Pesquisador | Professor</sub>
 
 Sou especialista em ajudar empresários e organizações a encontrarem padrões para solucionar problemas, usando a Matemática Aplicada à Ciência de Dados.
 
-Me formei como Mestre em Matemática pela Universidade Estadual Paulista (Unesp), agora estou me especializando em Ciência de Dados pela Universidade de São Paulo (USP).
+Sou Mestre em Matemática pela Universidade Estadual Paulista (Unesp), possuo MBA em Ciência de Dados pela Universidade de São Paulo (USP).
 
 Também fui professor de Matemática na Academia da Força Aérea, com ênfase nas disciplinas Cálculo Diferencial e Integral, Matemática Financeira, Lógica Matemática, Estatística e Probabilidade.
 
-Atuei por mais de 10 anos na área da educação e há 4 anos atuo na área de Ciência de Dados. Já participei de vários eventos voltados à Ciência de Dados e a programação Python.
+Atuei por mais de 10 anos na área da educação e há 6 anos atuo na área de Ciência de Dados. Já participei de vários eventos voltados à Ciência de Dados e a programação Python.
 
 Acredito que para o desenvolvimento de um algoritmo eficiente, é essencial saber os princípios da programação. Muitos não sabem programar. Apenas copiam códigos da internet. Isso é inadmissível.
 
 No Brasil, publiquei artigos acadêmicos que já foram expostos em congressos de matemática. Fui convidado para realizar meu doutorado na Unesp, mas optei pelo empreendedorismo.
 
-Sou co-fundador da startup Cytrix Analytics, onde sou responsável pela criação e manutenção dos métodos matemáticos e estatísticos empregados nos algoritmos 
+Fui co-fundador da startup Cytrix Analytics, onde era responsável pela criação e manutenção dos métodos matemáticos e estatísticos empregados nos algoritmos
 
-Também sou encarregado de compreender o negócio e o mercado ao qual os dados estão inseridos, para além de entendê-los matematicamente, contextualizá-los e interpretá-los, de modo que uma história possa ser contada com os dados e os números, Data Storytelling.
+Gosto de atuar compreendendo o negócio e o mercado ao qual os dados estão inseridos, para além de entendê-los matematicamente, contextualizá-los e interpretá-los, de modo que uma história possa ser contada com os dados e os números, Data Storytelling.
+
+Atualmente sou Cientista de Dados na Koin em tempo integral e nas horas vagas estou envolvido, de maneira autônoma, em dois projetos: I) MarIA: Saúde Inteligente, que consiste na criação de algoritmos preditivos para a redução de custos hospitalares e II) Mauricio Eloy: A Arte de Encontrar Padrões: que consiste na divulgação da Ciência de Dados e da Inteligencia Artificial, para que se possa quebrar paradigmas no modo como a sociedade vê a tecnologia, em outras palavras, é humanizar a tecnologia educando as pessoas para a cultura analítica.
  
 **Background:** Matemática Computacional, Python, Inteligência Artifical, Machine Learning e Estatística.
 
 **Links:**
 
 * [LinkedIn](https://www.linkedin.com/in/mauricio-eloy)
-* [Site](https://www.mauricioeloy.com.br)
 
 ## Projetos:
 
